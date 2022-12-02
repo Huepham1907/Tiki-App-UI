@@ -1,0 +1,13 @@
+.header {
+  background-color: var(--primary-color);
+  height: var(--header-height);
+}
+
+.category {
+  background-color: var(--white-color);
+}
+
+.content {
+  background-color: #f5f5fa;
+  height: 2000px;
+}
